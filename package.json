@@ -29,7 +29,7 @@
     "form-data": "^2.5.1"
   },
   "devDependencies": {
-    "app-root-path": "^2.2.1",
+    "app-root-path": "^3.0.0",
     "tape": "^4.11.0"
   }
 }
